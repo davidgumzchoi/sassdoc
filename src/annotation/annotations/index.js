@@ -19,4 +19,4 @@ module.exports = [
   require('./throw.js'),
   require('./todo.js'),
   require('./type.js')
-];
+]
